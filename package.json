@@ -1,0 +1,16 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "Node JS examples",
+  "main": "expressNodeHelloWorld.js",
+  "scripts": {
+    "test": "node "
+  },
+  "author": "Balachandar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "request": "^2.74.0"
+  }
+}
